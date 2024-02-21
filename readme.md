@@ -2,11 +2,12 @@
 
 - This project is a simple calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations and display the results.
 
-<!-- ## Live link: https://counter-app-one-theta.vercel.app/ -->
+### live link: 
+https://javascript-calculator-lovat.vercel.app/
 
 ## Objective
 
-- The goal of this project is to create a functional calculator that mimics the behavior of the Apple Iphone Calculator
+- The goal of this project is to create a functional calculator that mimics the behavior of the Apple's Iphone Calculator
 
 ## Usage
 

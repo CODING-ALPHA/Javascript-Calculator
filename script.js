@@ -22,7 +22,7 @@ const getKeyType = (key) => {
     action === "percent"
   )
     return "operator";
-  // For everything else, return the action
+  
   return action;
 };
 
